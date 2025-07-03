@@ -24,5 +24,4 @@ Jointly learns modulation and coding, achieving near-optimal Symbol Error Rate (
 
 Clone the repository and run:
 
-```bash
-python radioautoencoder.py
+Autoencoder Based communication systems.ipynb
